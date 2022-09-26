@@ -1,0 +1,15 @@
+.bg-white {
+    background: white !important;
+}
+
+.white {
+    color: white !important;
+}
+
+.color-link {
+    color: #3e90d4;
+}
+
+.text-underline-none {
+    text-underline: none !important;
+}
